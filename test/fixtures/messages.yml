@@ -4,12 +4,16 @@ one:
   message_id: MyString
   sender_id: MyString
   recipient_id: MyString
+  latitude: 1.5
+  longitude: 1.5
   message: MyText
-  sent_at: 2012-01-24 14:16:37
+  sent_at: 2012-01-24 15:59:46
 
 two:
   message_id: MyString
   sender_id: MyString
   recipient_id: MyString
+  latitude: 1.5
+  longitude: 1.5
   message: MyText
-  sent_at: 2012-01-24 14:16:37
+  sent_at: 2012-01-24 15:59:46
