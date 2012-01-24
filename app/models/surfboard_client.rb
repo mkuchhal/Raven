@@ -1,3 +1,5 @@
+require 'patron'
+
 class SurfboardClient
 
   AUTH_URL = 'https://www.google.com/accounts/ClientLogin'
